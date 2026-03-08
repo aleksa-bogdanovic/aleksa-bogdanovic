@@ -34,7 +34,8 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Smart City IS](https://github.com/aleksa-bogdanovic/smart-city-is) | EV charging station management system — university IS project | Java EE, JSF, EJB, JPA, SQL |
-| [Student Records Manager](https://github.com/aleksa-bogdanovic/student-records) | Console app for student data management with CRUD & file I/O | C++ |
+
+
 
 ---
 
