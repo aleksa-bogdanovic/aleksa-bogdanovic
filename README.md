@@ -34,6 +34,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Smart City IS](https://github.com/aleksa-bogdanovic/smart-city-is) | EV charging station management system — university IS project | Java EE, JSF, EJB, JPA, SQL |
+| [ILY](https://github.com/aleksa-bogdanovic/ily) | Flutter love button app — personal mobile project | Flutter · Dart |
 
 
 
